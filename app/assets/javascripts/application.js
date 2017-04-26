@@ -15,4 +15,5 @@
 //= require turbolinks
 //= require bootstrap/alert
 //= require bootstrap/dropdown
+//= require md_simple_editor
 //= require_tree .
